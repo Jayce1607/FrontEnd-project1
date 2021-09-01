@@ -1,0 +1,1 @@
+console.error(Number.isNaN(123));
